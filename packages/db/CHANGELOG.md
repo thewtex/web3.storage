@@ -1,5 +1,26 @@
 # Changelog
 
+## [2.1.0](https://www.github.com/web3-storage/web3.storage/compare/db-v2.0.3...db-v2.1.0) (2021-08-16)
+
+
+### Features
+
+* additional UDFs for admin purposes ([#348](https://www.github.com/web3-storage/web3.storage/issues/348)) ([919e9cb](https://www.github.com/web3-storage/web3.storage/commit/919e9cb0a20342413bc31c86e543da193f444300))
+* cron metrics ([#305](https://www.github.com/web3-storage/web3.storage/issues/305)) ([f064afb](https://www.github.com/web3-storage/web3.storage/commit/f064afb83776e14d6a66f1bde5884a9d57013794))
+
+
+### Bug Fixes
+
+* dag size UDFs ([6841775](https://www.github.com/web3-storage/web3.storage/commit/68417757553b5afc56e09f21db2b44cf49150954))
+* find pins by status sort by created DESC ([#292](https://www.github.com/web3-storage/web3.storage/issues/292)) ([e96d6ae](https://www.github.com/web3-storage/web3.storage/commit/e96d6aec5bc3fe85772152f4a467568bfbf66579))
+* incremental metrics ([#349](https://www.github.com/web3-storage/web3.storage/issues/349)) ([8347c20](https://www.github.com/web3-storage/web3.storage/commit/8347c20ed4a34c983d4d815b41c06fb849fff279))
+* metrics ([#285](https://www.github.com/web3-storage/web3.storage/issues/285)) ([b4c1bb2](https://www.github.com/web3-storage/web3.storage/commit/b4c1bb2f60788324c3a14440236047e97bcec460))
+
+
+### Performance Improvements
+
+* faster pin status sync ([#338](https://www.github.com/web3-storage/web3.storage/issues/338)) ([2861e33](https://www.github.com/web3-storage/web3.storage/commit/2861e3346cdff780b6eec6e50f0b365c7dd7f35e))
+
 ### [2.0.3](https://www.github.com/web3-storage/web3.storage/compare/db-v2.0.2...db-v2.0.3) (2021-08-03)
 
 
